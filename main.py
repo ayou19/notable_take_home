@@ -1,3 +1,9 @@
+#### How to run
+
+# Download file and run in preferred editor. Then run the file.
+# I have commented out different test cases being printed at the bottom.
+# Uncomment and run to see the terminal print out the results. Thanks!
+
 #### Test cases
 
 # example provided
@@ -74,7 +80,7 @@ def list_in_text(input):
     return False
 
 
-#### Trying out test cases
+#### Printing out test cases
 
 # print(transcribe(ex_input))
 # print(transcribe(ex_input_start_from_six))
